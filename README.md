@@ -1,7 +1,8 @@
 # THEIA
 
 A wearable device for the visually impaired that helps them perceive their surrounding using audio cues and touch feedback.
-![Thumn](https://user-images.githubusercontent.com/47842976/164945250-309cb41a-72c2-464d-8641-6ae18f20d05c.png)
+
+   ![THEIA Colors (1)](https://user-images.githubusercontent.com/47842976/164945420-c7b99863-b1e4-4dd8-8d6d-12700a695c77.png)
 
 
 ## Inspiration
@@ -51,10 +52,12 @@ Our team has picked up a lot of skills thanks to this hackathon. We learned how 
 ## What's next for THEIA 
 If we get a positive reaction from the people we show our project to, we will be extremely happy to try to bring our product to life and try to make it commercially available to visually impaired individuals worldwide.
 
-![THEIA_glasses_video_on_person_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/47842976/164945357-41c2e55d-87c8-439c-941d-438b1380fa15.gif)
+   ![THEIA_glasses_video_on_person_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/47842976/164945357-41c2e55d-87c8-439c-941d-438b1380fa15.gif)
 
 
 ## How to run 
 1. Download the arduino code and upload it to an Arduino Uno
 2. Download the Unreal Engine 4.27 project file from the link given and keep in under the Unreal Projects folder on your PC (you should have UE 4.27 downloaded)
 3. Connect your arduinovto your PC and run the UE project 
+
+      ![Project_Demo_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/47842976/164945434-ff695dde-4979-4763-8a3b-3799c2dc3bec.gif)
