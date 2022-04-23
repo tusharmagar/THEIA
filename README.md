@@ -48,3 +48,8 @@ Our team has picked up a lot of skills thanks to this hackathon. We learned how 
 
 ## What's next for THEIA 
 If we get a positive reaction from the people we show our project to, we will be extremely happy to try to bring our product to life and try to make it commercially available to visually impaired individuals worldwide.
+
+## How to run 
+1. Download the arduino code and upload it to an Arduino Uno
+2. Download the Unreal Engine 4.27 project file from the link given and keep in under the Unreal Projects folder on your PC (you should have UE 4.27 downloaded)
+3. Connect your arduinovto your PC and run the UE project 
