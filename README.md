@@ -1,4 +1,5 @@
-#THEIA
+# THEIA
+
 A wearable device for the visually impaired that helps them perceive their surrounding using audio cues and touch feedback.
 
 ## Inspiration
