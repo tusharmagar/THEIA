@@ -1,6 +1,8 @@
 # THEIA
 
 A wearable device for the visually impaired that helps them perceive their surrounding using audio cues and touch feedback.
+![Thumn](https://user-images.githubusercontent.com/47842976/164945250-309cb41a-72c2-464d-8641-6ae18f20d05c.png)
+
 
 ## Inspiration
 We observed that the visually impaired feel limited because of their disability and increased dependence on friends and family and that there was no product on the market that helps them efficiently. So we decided to take initiative and build a wearable device that helps make their lives easier.
@@ -48,6 +50,9 @@ Our team has picked up a lot of skills thanks to this hackathon. We learned how 
 
 ## What's next for THEIA 
 If we get a positive reaction from the people we show our project to, we will be extremely happy to try to bring our product to life and try to make it commercially available to visually impaired individuals worldwide.
+
+![THEIA_glasses_video_on_person_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/47842976/164945357-41c2e55d-87c8-439c-941d-438b1380fa15.gif)
+
 
 ## How to run 
 1. Download the arduino code and upload it to an Arduino Uno
