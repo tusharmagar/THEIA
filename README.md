@@ -1,6 +1,6 @@
 # THEIA
 
-A wearable device for the visually impaired that helps them perceive their surrounding using audio cues and touch feedback.
+A wearable device for the visually impaired that helps them perceive their surroundings using audio cues and touch feedback.
 
    ![THEIA Colors (1)](https://user-images.githubusercontent.com/47842976/164945420-c7b99863-b1e4-4dd8-8d6d-12700a695c77.png)
 
